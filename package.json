@@ -1,0 +1,15 @@
+{
+  "name": "hientan113-tea",
+  "version": "1.0.0",
+  "description": "The only way to do great work is to love what you do",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hientan113/hientan113-tea.git"
+  },
+  "author": "hientan113",
+  "license": "MIT"
+}
